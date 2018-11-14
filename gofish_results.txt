@@ -1,0 +1,92 @@
+Joe's Hand: 4s 7h 4c 5c 8h Kd Jd 
+Jane's Hand: 6c Kc 2d 5d Ad Js 3s 
+
+
+Joe books the 4
+Joe ask, 'Do you have a 7?'
+Jane says - Go Fish
+Joe draws 3d
+Jane ask, 'Do you have a 6?'
+Joe says - Go Fish
+Jane draws Jh
+Joe ask, 'Do you have a 7?'
+Jane says - Go Fish
+Joe draws Kh
+Jane books the J
+Jane ask, 'Do you have a 6?'
+Joe says - Go Fish
+Jane draws 7c
+Joe books the K
+Joe ask, 'Do you have a 7?'
+Jane says, 'Yes, I have a 7.'
+Joe books the 7
+Joe ask, 'Do you have a 7?'
+Jane says - Go Fish
+Joe draws 6d
+Jane ask, 'Do you have a 6?'
+Joe says, 'Yes, I have a 6.'
+Jane books the 6
+Jane ask, 'Do you have a 6?'
+Joe says - Go Fish
+Jane draws 7d
+Joe ask, 'Do you have a 5?'
+Jane says, 'Yes, I have a 5.'
+Joe books the 5
+Joe ask, 'Do you have a 5?'
+Jane says - Go Fish
+Joe draws Ac
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 10s
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws 2c
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 2s
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws 10c
+Jane books the 2
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 5h
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws Jc
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 5s
+Joe books the J
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws Qs
+Jane books the 5
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 6h
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws 4h
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 9c
+Joe ask, 'Do you have a 8?'
+Jane says - Go Fish
+Joe draws 8d
+Jane ask, 'Do you have a K?'
+Joe says - Go Fish
+Jane draws 9h
+Joe books the 8
+Joe ask, 'Do you have a 3?'
+Jane says, 'Yes, I have a 3.'
+Joe books the 3
+Joe ask, 'Do you have a 3?'
+Jane says - Go Fish
+Joe draws Ks
+Jane books the 9
+Jane ask, 'Do you have a K?'
+Joe says, 'Yes, I have a K.'
+Jane books the K
+Joe wins!Jane draws 4d
+Jane wins!
